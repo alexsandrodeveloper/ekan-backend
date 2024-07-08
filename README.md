@@ -68,5 +68,5 @@ A aplicação possui alguns casos de testes na camada de controller e de service
 
 1. **Clone o repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone [<URL_DO_REPOSITORIO>](https://github.com/alexsandrodeveloper/ekan-backend.git)
    cd <NOME_DO_REPOSITORIO>
