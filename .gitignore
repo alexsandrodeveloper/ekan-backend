@@ -1,0 +1,69 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+build.gradle
+settings.gradle
+gradle/
+gradlew
+gradlew.bat
+
+# Ignorar apenas build, bin e out dentro de src
+src/**/build/
+src/**/bin/
+src/**/out/
+
+# Build outputs
+/build/
+*/build/
+
+# IDE specific files
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database files
+*.db
+*.h2.db
+*.mv.db
+
+# Configuration files
+application.properties
+application.yml
+
+# Help files
+HELP.md
